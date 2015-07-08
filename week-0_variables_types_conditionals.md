@@ -17,7 +17,7 @@
 
 - Write a program that asks the user to type 2 integers A and B and exchange the value of A and B.  
 
-- write a program that takes two numbers as inputs and returns the largest of them.  
+- Write a program that takes two numbers as inputs and returns the largest of them.  
 
 - Write a program which asks for a student's score. Score is a number from 0-100. Your program should translate the number     score into a letter grade and then output the letter grade to the console according to the following criteria:  
 
