@@ -32,14 +32,6 @@
 - Write a program that asks the user to type an integer and writes "YOU WIN" if the value is between 56 and 78 (both           included). In the other case it writes "YOU LOSE".  
 
 
-#### Challenging
-- A goat, a wolf and a salad are on one side of a river and you need to get them to the other side using your boat:
-    - You can carry one item in your boat to the other side at any given time. However:
-        - When the goat and the wolf are left alone the wolf will eat the goat. 
-        - If the goat and the salad are left alone the goat will eat the salad.
-        - As long as you are with them nothing will happen, i.e. the wolf won’t eat the goat and the goat won’t eat the                salad. 
-        
-  Write a program which determines algorithmically an order in which you carry them all to the other side.  
 
 
     
