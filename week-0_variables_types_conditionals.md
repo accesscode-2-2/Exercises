@@ -1,5 +1,6 @@
-# Week 0: Variables, Types, and Conditional Statements 
-## Review Questions:  
+# Week 0
+## Variables, Types, and Conditional Statements 
+### Review Questions:  
 
 - What is a variable?  
 - What is a pointer?  
@@ -12,6 +13,6 @@
 - Which Apple primitive type is used to represent an environment aware floating point number?  
 - Which type is used to represent a sequence of characters?  
 
-## Excercises
+### Excercises
 
 
