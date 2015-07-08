@@ -11,3 +11,7 @@ Which primitive type is used to represent true or false?
 Which Apple primitive type is used to represent an environment aware integer?  
 Which Apple primitive type is used to represent an environment aware floating point number?  
 Which type is used to represent a sequence of characters?  
+
+## Excercises
+
+
