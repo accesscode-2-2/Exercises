@@ -46,8 +46,6 @@ Write a program that asks the user to type an integer and writes "YOU WIN" if th
 
 Write a program that asks the user to type all the integers between 8 and 23 (both included) using a for loop.  
 
-Define a function max_of_three() that takes three numbers as arguments and returns the largest of them.  
-
 Write a program that asks the user to type 10 integers of an array. The program must compute and write how many integers are greater than or equal to 10.    
 
 Write a program with a function that takes two int parameters, adds them together, then returns the sum. The program should ask the user for two numbers, then call the function with the numbers as arguments, and tell the user the sum.  
@@ -64,7 +62,7 @@ Define a function max() that takes two numbers as arguments and returns the larg
 
 Define a function max_of_three() that takes three numbers as arguments and returns the largest of them.  
 
-The function max()  and the function max_of_three() from will only work for two and three numbers, respectively. But suppose we have a much larger number of numbers, or suppose we cannot tell in advance how many they are? 
+The function max()  and the function max_of_three() from will only work for two and three numbers, respectively. But suppose we have a much larger number of numbers, or suppose we cannot tell in advance how many they are? Write a function max_in_array() that takes an array of numbers and returns the largest one.  
 
 Define a function that computes the length of a given list or string.   
 
@@ -91,15 +89,15 @@ Define a function histogram() that takes a list of integers and prints a histogr
     *******
 ```
 
-Write a function max_in_list() that takes an array of numbers and returns the largest one.  
-
 Write a version of a palindrome recognizer that also accepts phrase palindromes such as "Go hang a salami I'm a lasagna hog.", "Was it a rat I saw?", "Step on no pets", "Sit on a potato pan, Otis", "Lisa Bonet ate no basil", "Satan, oscillate my metallic sonatas", "I roamed under it as a tired nude Maori", "Rise to vote sir", or the exclamation "Dammit, I'm mad!". Note that punctuation, capitalization, and spacing are usually ignored.  
 
 A pangram is a sentence that contains all the letters of the English alphabet at least once, for example: The quick brown fox jumps over the lazy dog. Your task here is to write a function to check a sentence to see if it is a pangram or not.  
 
 "99 Bottles of Beer" is a traditional song in the United States and Canada. It is popular to sing on long trips, as it has a very repetitive format which is easy to memorize, and can take a long time to sing. The song's simple lyrics are as follows:
-    >99 bottles of beer on the wall, 99 bottles of beer.  
-    >Take one down, pass it around, 98 bottles of beer on the wall.  
+
+  > 99 bottles of beer on the wall, 99 bottles of beer.  
+  > Take one down, pass it around, 98 bottles of beer on the wall.  
+    
 The same verse is repeated, each time with one fewer bottle. The song is completed when the singer or singers reach zero.  
 Your task here is write a program capable of generating all the verses of the song.  
 
