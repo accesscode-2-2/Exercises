@@ -1,5 +1,6 @@
-# Week 2: Bubble Sort, Functions, Review Objects, Pairing Objects 
+# Week 2:
+## Bubble Sort, Functions, Review Objects, Pairing Objects 
 
-## Review Questions:
+### Review Questions:
 
-## Excercises:
+### Excercises:
