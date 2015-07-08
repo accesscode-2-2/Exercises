@@ -23,11 +23,6 @@ Which type is used to represent a sequence of characters?
 ### Week 3: Classes, NSArray, NSMutable Array
 
 
-
-
-
-
-
 ## Exercises:
 
 ### Easy:
@@ -39,12 +34,13 @@ Write a program that asks the user to type 5 integers and writes the average of 
 Write a program that asks the user to type 2 integers A and B and exchange the value of A and B.  
 
 Write a program which asks for a student score. Score is a number from 0-100. Translate the score into grade according to the next limits:  
-    - score >= 90 ==> "A"  
-    - score >= 80 ==> "B"  
-    - score >= 70 ==> "C"  
-    - score >= 60 ==> "D"  
-    - anything else ==> "F"  
-    - If the score is 100 print "Perfect score!".  
+
+    score >= 90 ==> "A"  
+    score >= 80 ==> "B"  
+    score >= 70 ==> "C"  
+    score >= 60 ==> "D"  
+    anything else ==> "F"  
+    If the score is 100 print "Perfect score!"
 
 Write a program that asks the user to type an integer and writes "YOU WIN" if the value is between 56 and 78 (both included). In the other case it writes "YOU LOSE".  
 
@@ -67,6 +63,8 @@ Write a program which accepts numbers as arguments and which determines the lowe
 Define a function max() that takes two numbers as arguments and returns the largest of them.   
 
 Define a function max_of_three() that takes three numbers as arguments and returns the largest of them.  
+
+The function max()  and the function max_of_three() from will only work for two and three numbers, respectively. But suppose we have a much larger number of numbers, or suppose we cannot tell in advance how many they are? 
 
 Define a function that computes the length of a given list or string.   
 
@@ -92,9 +90,8 @@ Define a function histogram() that takes a list of integers and prints a histogr
     *********
     *******
 ```
-The function max() from exercise 1) and the function max_of_three() from exercise 2) will only work for two and three numbers, respectively. But suppose we have a much larger number of numbers, or suppose we cannot tell in advance how many they are? 
 
-Write a function max_in_list() that takes a list of numbers and returns the largest one.  
+Write a function max_in_list() that takes an array of numbers and returns the largest one.  
 
 Write a version of a palindrome recognizer that also accepts phrase palindromes such as "Go hang a salami I'm a lasagna hog.", "Was it a rat I saw?", "Step on no pets", "Sit on a potato pan, Otis", "Lisa Bonet ate no basil", "Satan, oscillate my metallic sonatas", "I roamed under it as a tired nude Maori", "Rise to vote sir", or the exclamation "Dammit, I'm mad!". Note that punctuation, capitalization, and spacing are usually ignored.  
 
@@ -117,6 +114,7 @@ Your task in this exercise is to define a function make_3sg_form() which given a
 Challenging:  
 
 Define a function overlapping() that takes two arrays and returns True if they have at least one member in common, False otherwise. (Hint: Try using two nested for-loops.)  
+
 Write a program which simulates one or more dice with values from 1 to 6. The program takes a single argument which is the number of dice. The output should contain the values of the dice and the probability for this combination to occur. The probability is expressed as a decimal value between 0 and 1 with three decimal points. Extend the program so that it can roll dice with any number of sides.  
 ``` 
     Example Run:  
