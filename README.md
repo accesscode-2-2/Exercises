@@ -1,6 +1,6 @@
 # Access Code 2.2 Review for Unit 0
 
-Here are where you will find links to review questions and excerices to reinforce what you have learned in class. The are grouped 
+Here are where you will find links to review questions and excerices to reinforce what you have learned in class.
 
 Click on the topic to you want to review to start practicing.
 
