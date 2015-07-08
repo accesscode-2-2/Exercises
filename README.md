@@ -1,29 +1,4 @@
 # Review questions and exercises for Unit 0: Weeks 0-3.
-Note: After a while I had a hard time categorizing the problems because difficulty is subjective.   
-
-## Review Questions:  
-### Week 0: Variables, Types, and Conditional Statements  
-What is a variable?  
-What is a pointer?  
-Which primitive type is used to represent integer whole numbers?  
-Which primitive type is used to represent a single character?  
-Which primitive type is used to represent floating point numbers with single precision?  
-Which primitive type is used to represent floating point numbers with double precision?  
-Which primitive type is used to represent true or false?  
-Which Apple primitive type is used to represent an environment aware integer?  
-Which Apple primitive type is used to represent an environment aware floating point number?  
-Which type is used to represent a sequence of characters?  
-
-### Week 1: User Input, Structs, Loops, Arrays  
-
-
-### Week 2: Bubble Sort, Functions, Review Objects, Pairing Objects  
-
-
-### Week 3: Classes, NSArray, NSMutable Array
-
-
-## Exercises:
 
 ### Easy:
 
