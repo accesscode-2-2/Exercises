@@ -15,6 +15,19 @@
 
 ### Excercises:
 
+- Write a method that prints the numbers 1 through 10 using a loop.
+- Write a method that prints the numbers 1 through 10 using a different kind of loop.
+- Write a method that takes in an `int` n and prints the numbers 1 through n.
+- Write a method that takes in an `int` n and prints the even numbers 2 through n.
+- Write a method that prints the sum of 1 through 10 using a loop.
+- Write a method that takes in an `int` n and prints the sum of the numbers 1 through n using a loop.
+- Use the method you wrote in the previous exercise to print the sum of the numbers from 1 through 10000.
+- Write a method that takes in an `int` n and a `String` s and prints out s on its own line, n times. If n is negative, print "".
+- Modify the method to print out the string concatenated with itself n times.
+- Write a method that prints the first ten Fibonnaci numbers.
+- Modify the method to sum the first ten Fibonnaci numbers.
+- Modify the method to take in an `int` n and sum the first n Fibonnaci numbers.
+
 - Write a program that asks the user to type the width and the height of a rectangle and then outputs to the screen the area   and the perimeter of that rectangle.
 
 - Write a program which accepts five numbers from user input and then outputs how many numbers were read and the minium and       maximum value of all the numbers.
