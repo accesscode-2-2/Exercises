@@ -37,8 +37,8 @@
 - Write a program that asks the user to type the width and the height of a rectangle and then outputs to the screen the area   and the perimeter of that rectangle.
 
 - Write a program which accepts five numbers from user input and then outputs how many numbers were read and the minium and    maximum value of all the numbers.
-  ```
-      Example Run:  
+    - Example Run:
+  ```  
       1 99 5 19 -23   
       Min value: -23  
       Max value: 99  
@@ -55,8 +55,7 @@
 - Define a function generate_n_chars() that takes an integer n and a character c and returns a string, n characters long,      consisting only of c’s. For example, generate_n_chars(5,"x") should return the string "xxxxx".   
 
 - Write a program that obtains a students name, age and GPA from user input and stores them into a **struct** and then         outputs that information to the consoloe.
-    - Exammple Run:
-
+    - Example Run:
   ```
     Enter name: Adele
     Enter age: 21
