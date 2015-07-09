@@ -34,6 +34,8 @@
 ### Challenging Exercises: 
 #####*Once you have finished all of the above exercises you can try to complete some of the following more challenging exercises.*
 
+- Write a program that asks the user to type an integer and writes "YOU WIN" if the value is between 56 and 78 (both           included). In the other case it writes "YOU LOSE".  
+
 - Write a program that asks the user to type the width and the height of a rectangle and then outputs to the screen the area   and the perimeter of that rectangle.
 
 - Write a program which accepts five numbers from user input and then outputs how many numbers were read and the minium and    maximum value of all the numbers.
