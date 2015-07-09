@@ -14,7 +14,7 @@
 
 
 ### Excercises:
-*These exercises will test the concepts that we covered in class.*
+#####*These exercises will test the concepts that we covered in class.*
 
 - Write a method that prints the numbers 1 through 10 using a loop.
 - Write a method that prints the numbers 1 through 10 using a different kind of loop.
@@ -30,7 +30,7 @@
 - Modify the method to take in an `int` n and sum the first n Fibonnaci numbers.
 
 ### Challenging Exercises: 
-*Once you have finished all of the above exercises you can try to complete some of the following more challenging exercises.*
+#####*Once you have finished all of the above exercises you can try to complete some of the following more challenging exercises.*
 
 - Write a program that asks the user to type the width and the height of a rectangle and then outputs to the screen the area   and the perimeter of that rectangle.
 
