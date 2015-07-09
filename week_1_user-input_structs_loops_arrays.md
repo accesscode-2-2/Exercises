@@ -11,6 +11,7 @@
 - Which type of loop runs until its termination condition is true?
 - Which keyword can we use to skip to the next iteration of a loop?
 - Which data structure is used to stored elements of the same type?
+- What is the name of a user-defined type that can be defined
 
 
 ### Excercises:
@@ -28,6 +29,7 @@
 - Write a program that prints the first ten [Fibonnaci numbers](https://www.mathsisfun.com/numbers/fibonacci-sequence.html).
 - Modify the program to sum the first ten Fibonnaci numbers.
 - Modify the program to take in an `int` n and sum the first n Fibonnaci numbers.
+- Write a program that stores information about a shape in a **struct** called shape. The struct should hold information       about the type of shape it is and it's color.
 
 ### Challenging Exercises: 
 #####*Once you have finished all of the above exercises you can try to complete some of the following more challenging exercises.*
@@ -51,3 +53,17 @@
   Your task here is write a program capable of generating all the verses of the song.
 
 - Define a function generate_n_chars() that takes an integer n and a character c and returns a string, n characters long,      consisting only of c’s. For example, generate_n_chars(5,"x") should return the string "xxxxx".   
+
+- Write a program that obtains a students name, age and GPA from user input and stores them into a **struct** and then         outputs that information to the consoloe.
+    - Exammple Run:
+
+  ```
+    Enter name: Adele
+    Enter age: 21
+    Enter GPA: 334.5
+    
+    Displaying Information
+    Name: Adele
+    Age: 21
+    GPA: 4.0
+  ```
