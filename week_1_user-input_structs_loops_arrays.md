@@ -6,12 +6,12 @@
 - Which function is used to write output to the console?
 - Which function is used to read input from the console?
 - Which keyword can we use to create a user-defined type?
-- Which type of loop will run as long as a condition is true?
+- Which type of loop will first check if a condition is true and then contune to run as long as it remains true?
 - Which keyword is used to stop a loop from executing?
-- Which type of loop runs until its termination condition is true?
+- Which type of loop will continue to run until its termination condition is true?
 - Which keyword can we use to skip to the next iteration of a loop?
 - Which data structure is used to stored elements of the same type?
-- What is the name of a user-defined type that can be defined
+- What is the name of a user-defined type that can be defined using the primitive types?
 
 
 ### Excercises:
