@@ -16,18 +16,18 @@
 ### Excercises:
 #####*These exercises will test the concepts that we covered in class.*
 
-- Write a method that prints the numbers 1 through 10 using a loop.
-- Write a method that prints the numbers 1 through 10 using a different kind of loop.
-- Write a method that takes in an **int** n and prints the numbers 1 through n.
-- Write a method that takes in an **int** n and prints the even numbers 2 through n.
-- Write a method that prints the sum of 1 through 10 using a loop.
-- Write a method that takes in an **int** n and prints the sum of the numbers 1 through n using a loop.
-- Use the method you wrote in the previous exercise to print the sum of the numbers from 1 through 10000.
-- Write a method that takes in an **int** n and a **String** s and prints out s on its own line, n times. If n is negative,    print "" (that is print an empty sring).
+- Write a program that prints the numbers 1 through 10 using a loop.
+- Write a program that prints the numbers 1 through 10 using a different kind of loop.
+- Write a program that takes in an **int** n and prints the numbers 1 through n.
+- Write a program that takes in an **int** n and prints the even numbers 2 through n.
+- Write a program that prints the sum of 1 through 10 using a loop.
+- Write a program that takes in an **int** n and prints the sum of the numbers 1 through n using a loop.
+- Use the program you wrote in the previous exercise to print the sum of the numbers from 1 through 10000.
+- Write a program that takes in an **int** n and a **String** s and prints out s on its own line, n times. If n is negative,   print "" (that is print an empty sring).
 - Modify the method to print out the string concatenated with itself n times.
-- Write a method that prints the first ten [Fibonnaci numbers](https://www.mathsisfun.com/numbers/fibonacci-sequence.html).
-- Modify the method to sum the first ten Fibonnaci numbers.
-- Modify the method to take in an `int` n and sum the first n Fibonnaci numbers.
+- Write a program that prints the first ten [Fibonnaci numbers](https://www.mathsisfun.com/numbers/fibonacci-sequence.html).
+- Modify the program to sum the first ten Fibonnaci numbers.
+- Modify the program to take in an `int` n and sum the first n Fibonnaci numbers.
 
 ### Challenging Exercises: 
 #####*Once you have finished all of the above exercises you can try to complete some of the following more challenging exercises.*
