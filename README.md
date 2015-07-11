@@ -1,6 +1,6 @@
-# Access Code 2.2 Review for Unit 0
+# Access Code 2.2 Review Exercises
 
-Here are where you will find links to review questions and excerices to reinforce what you have learned in class.
+The goal of this repository is to serve as a place where devs practice what they've learned. Over the course of the next few months we will continue to build a deep bank of exercises for entry-level / junior-level devs. This course is in C/Objective-C but these we should try and build exercises that are language agnostic. 
 
 Click on the topic to you want to review to start practicing.
 
